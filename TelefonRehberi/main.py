@@ -1,9 +1,9 @@
 import mysql.connector
 
 veritabanim=mysql.connector.connect(
-host="127.0.0.1",
-user="root",
-password="Vwa4hjyklucr",
+host="",
+user="",
+password="",
 database="contact"
 
 )
